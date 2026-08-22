@@ -8,13 +8,8 @@
 				"Radius": 160,
 				"PosHeight": 22,
 				"NegHeight": 10,
-				"InnerRingCount": 2,
 				"InnerPartDist": 50,
-				"OuterRingToggle": 1, 
-				"OuterPartDist": 50, 
 				"OuterOffset": 0, 
-				"VerticalLayers": 0,
-				"VerticalOffset": 0,
 				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
 				},
 			"PlayerData": {
@@ -31,13 +26,8 @@
 				"Radius": 160,
 				"PosHeight": 26,
 				"NegHeight": 10,
-				"InnerRingCount": 2,
 				"InnerPartDist": 50,
-				"OuterRingToggle": 1, 
-				"OuterPartDist": 50, 
 				"OuterOffset": 0, 
-				"VerticalLayers": 0,
-				"VerticalOffset": 0,
 				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
 				},
 			"PlayerData": {
@@ -54,13 +44,8 @@
 				"Radius": 100,
 				"PosHeight": 22,
 				"NegHeight": 2,
-				"InnerRingCount": 1,
 				"InnerPartDist": 50,
-				"OuterRingToggle": 1, 
-				"OuterPartDist": 60, 
 				"OuterOffset": 0, 
-				"VerticalLayers": 0,
-				"VerticalOffset": 0,
 				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
 				},
 			"PlayerData": {
@@ -77,13 +62,8 @@
 				"Radius": 100,
 				"PosHeight": 25,
 				"NegHeight": 20,
-				"InnerRingCount": 2,
 				"InnerPartDist": 50,
-				"OuterRingToggle": 1, 
-				"OuterPartDist": 40, 
 				"OuterOffset": 0, 
-				"VerticalLayers": 0,
-				"VerticalOffset": 0,
 				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
 				},
 			"PlayerData": {
